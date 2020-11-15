@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OpMat</string>
+    <string name="operaciones_matematicas">Operaciones Matematicas</string>
+    <string name="buton_multiplicacion">buton multiplicacion</string>
+    <string name="boton_suma">boton suma</string>
+    <string name="boton_division">boton division</string>
+    <string name="boton_resta">boton resta</string>
+    <string name="textview">TextView</string>
+    <string name="escribe_el_resultado">Escribe el resultado</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="puntuaci_n">Puntuación:</string>
+    <string name="_0">0</string>
+    <string name="imagen_num1">imagen num1</string>
+    <string name="imagen_signo">imagen signo</string>
+    <string name="imagen_num2">imagen num2</string>
+    <string name="fondo">fondo</string>
+    <string name="fondo_inf">fondo inf</string>
+    <string name="imagen_operacion">imagen operacion</string>
+    <string name="imagen_numero_1">imagen numero 1</string>
+    <string name="imagen_numero_2">imagen numero 2</string>
+
+</resources>
